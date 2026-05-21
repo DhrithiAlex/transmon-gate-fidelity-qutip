@@ -26,3 +26,10 @@ git clone https://github.com/DhrithiAlex/transmon-gate-fidelity-qutip.git
 cd transmon-gate-fidelity-qutip
 
 pip install -e .
+
+
+# Run the full simulation (Quick Start)
+transmon-fidelity
+
+# or
+python scripts/run_fidelity.py
