@@ -28,7 +28,7 @@ cd transmon-gate-fidelity-qutip
 pip install -e .
 
 
-# Run the full simulation (Quick Start)
+## Run the full simulation (Quick Start)
 transmon-fidelity
 
 # or
