@@ -1,0 +1,6 @@
+@misc{transmon-gate-fidelity,
+  author = {Dhrithi Maria},
+  title = {Transmon Single-Qubit Gate Fidelity under T1/T2 Decoherence},
+  year = {2026},
+  url = {https://github.com/DhrithiAlex/transmon-gate-fidelity-qutip}
+}
