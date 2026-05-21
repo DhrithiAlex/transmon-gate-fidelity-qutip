@@ -1,0 +1,3 @@
+src/transmon_fidelity/     # Core package
+scripts/                   # Executable scripts
+figures/                   # Generated plots
