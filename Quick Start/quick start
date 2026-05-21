@@ -1,0 +1,5 @@
+# Run the full simulation
+transmon-fidelity
+
+# or
+python scripts/run_fidelity.py
