@@ -1,0 +1,17 @@
+[project]
+name = "transmon-gate-fidelity"
+version = "0.1.0"
+description = "Simulation of single-qubit gate fidelity for transmon under T1/T2 decoherence using QuTiP"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "Dhrithi Maria"}]
+
+dependencies = [
+    "qutip>=5.0",
+    "numpy>=1.21",
+    "matplotlib>=3.5",
+]
+
+[project.scripts]
+transmon-fidelity = "scripts.run_fidelity:main"
